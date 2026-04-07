@@ -3,4 +3,9 @@ transformers>=4.30.0
 bitsandbytes>=0.39.0
 accelerate
 torchvision
+pandas
+numpy
+matplotlib
+Pillow
+tqdm
 
